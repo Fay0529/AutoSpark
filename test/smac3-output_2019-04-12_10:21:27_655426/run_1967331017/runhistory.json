@@ -1,0 +1,2308 @@
+{
+  "data": [
+    [
+      [
+        1,
+        null,
+        0
+      ],
+      [
+        -0.03892570713156296,
+        10.54354453086853,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        2,
+        null,
+        0
+      ],
+      [
+        0.06094317589223108,
+        10.485682249069214,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        3,
+        null,
+        0
+      ],
+      [
+        0.034712011180123015,
+        10.11596965789795,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        4,
+        null,
+        0
+      ],
+      [
+        0.08145221559260685,
+        8.119441032409668,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        5,
+        null,
+        0
+      ],
+      [
+        0.06342975069884049,
+        7.498914003372192,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        6,
+        null,
+        0
+      ],
+      [
+        0.19544093761547443,
+        4.549365043640137,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        7,
+        null,
+        0
+      ],
+      [
+        0.25285183444261816,
+        1.9743428230285645,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        8,
+        null,
+        0
+      ],
+      [
+        0.03525961883288564,
+        6.884197235107422,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        9,
+        null,
+        0
+      ],
+      [
+        0.0023043338134883795,
+        14.161750078201294,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        10,
+        null,
+        0
+      ],
+      [
+        -0.019328914194635116,
+        12.946122646331787,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        11,
+        null,
+        0
+      ],
+      [
+        -0.02588953876765343,
+        6.450795650482178,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        12,
+        null,
+        0
+      ],
+      [
+        0.0075358383560860664,
+        11.408920526504517,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        13,
+        null,
+        0
+      ],
+      [
+        0.1345199158376298,
+        11.721490859985352,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        14,
+        null,
+        0
+      ],
+      [
+        0.17183210771156254,
+        5.455625772476196,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        15,
+        null,
+        0
+      ],
+      [
+        0.03729999106309734,
+        5.416418075561523,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        16,
+        null,
+        0
+      ],
+      [
+        0.18815094069647365,
+        11.128399133682251,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        17,
+        null,
+        0
+      ],
+      [
+        0.004251027902764659,
+        12.138861179351807,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        18,
+        null,
+        0
+      ],
+      [
+        0.004533679563931692,
+        13.75141167640686,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        19,
+        null,
+        0
+      ],
+      [
+        -0.0021151101261907,
+        12.323442697525024,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        20,
+        null,
+        0
+      ],
+      [
+        0.17765508063752156,
+        5.657081604003906,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        21,
+        null,
+        0
+      ],
+      [
+        0.08924482840496273,
+        18.095978260040283,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        22,
+        null,
+        0
+      ],
+      [
+        0.19502029232653806,
+        4.744593858718872,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        23,
+        null,
+        0
+      ],
+      [
+        0.007194262225371562,
+        3.853363037109375,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        24,
+        null,
+        0
+      ],
+      [
+        0.1246095566415224,
+        8.773804664611816,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        25,
+        null,
+        0
+      ],
+      [
+        0.23385117000346434,
+        13.896424770355225,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        26,
+        null,
+        0
+      ],
+      [
+        -0.004760476435659466,
+        6.489565134048462,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        27,
+        null,
+        0
+      ],
+      [
+        0.09168571723801167,
+        2.6042823791503906,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        28,
+        null,
+        0
+      ],
+      [
+        0.0173284968331896,
+        13.809146642684937,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        29,
+        null,
+        0
+      ],
+      [
+        0.2562498814740257,
+        10.585829734802246,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        30,
+        null,
+        0
+      ],
+      [
+        -0.044631329295867994,
+        9.34769058227539,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        31,
+        null,
+        0
+      ],
+      [
+        -0.02527242407810726,
+        9.25194525718689,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        32,
+        null,
+        0
+      ],
+      [
+        -0.05502642580950923,
+        4.487666130065918,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        33,
+        null,
+        0
+      ],
+      [
+        0.009341490712824418,
+        5.248708486557007,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        34,
+        null,
+        0
+      ],
+      [
+        0.01496941336569746,
+        4.9835827350616455,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        35,
+        null,
+        0
+      ],
+      [
+        0.018804939173959867,
+        14.331583499908447,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        36,
+        null,
+        0
+      ],
+      [
+        -0.0233122103969281,
+        10.602518320083618,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        37,
+        null,
+        0
+      ],
+      [
+        -0.022147141460385766,
+        9.18348479270935,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        38,
+        null,
+        0
+      ],
+      [
+        -0.019463991410292536,
+        7.400197982788086,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        39,
+        null,
+        0
+      ],
+      [
+        -0.019240882614215415,
+        13.170019626617432,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        40,
+        null,
+        0
+      ],
+      [
+        -0.017521335220854306,
+        10.37041163444519,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        41,
+        null,
+        0
+      ],
+      [
+        0.02263502646987181,
+        6.9525146484375,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        42,
+        null,
+        0
+      ],
+      [
+        0.02195947250037844,
+        8.842365503311157,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        43,
+        null,
+        0
+      ],
+      [
+        -0.05480157884591641,
+        17.10595464706421,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        44,
+        null,
+        0
+      ],
+      [
+        0.12566008800772765,
+        5.139411687850952,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        45,
+        null,
+        0
+      ],
+      [
+        0.13465068089140464,
+        6.967463254928589,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        46,
+        null,
+        0
+      ],
+      [
+        -0.04506528140679622,
+        14.975210189819336,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        47,
+        null,
+        0
+      ],
+      [
+        -0.046809290648547774,
+        12.972819089889526,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        48,
+        null,
+        0
+      ],
+      [
+        0.08371496891729557,
+        6.076708793640137,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        49,
+        null,
+        0
+      ],
+      [
+        0.13023380480853475,
+        13.739877700805664,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        50,
+        null,
+        0
+      ],
+      [
+        -0.035309905065968206,
+        10.350285530090332,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        51,
+        null,
+        0
+      ],
+      [
+        -0.04250743664927126,
+        12.641894102096558,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        52,
+        null,
+        0
+      ],
+      [
+        0.08904486060488093,
+        7.6897759437561035,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        53,
+        null,
+        0
+      ],
+      [
+        -0.04552171717932385,
+        12.12073540687561,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        54,
+        null,
+        0
+      ],
+      [
+        -0.045701203750803554,
+        19.881399631500244,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        55,
+        null,
+        0
+      ],
+      [
+        -0.009559792389460364,
+        5.680341482162476,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        56,
+        null,
+        0
+      ],
+      [
+        0.10901757317473182,
+        12.344575643539429,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        57,
+        null,
+        0
+      ],
+      [
+        0.11841344116259511,
+        9.482454538345337,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        58,
+        null,
+        0
+      ],
+      [
+        -0.008340055730963192,
+        5.852458477020264,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        59,
+        null,
+        0
+      ],
+      [
+        -0.04360917169000755,
+        13.282126426696777,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        60,
+        null,
+        0
+      ],
+      [
+        -0.04542453114615208,
+        12.10052752494812,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        61,
+        null,
+        0
+      ],
+      [
+        0.20009942732811226,
+        6.1700193881988525,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        62,
+        null,
+        0
+      ],
+      [
+        -0.03483222915608253,
+        10.508450746536255,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        63,
+        null,
+        0
+      ],
+      [
+        -0.03579137042555103,
+        12.97977614402771,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        64,
+        null,
+        0
+      ],
+      [
+        0.12100144915263855,
+        6.0022993087768555,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        65,
+        null,
+        0
+      ],
+      [
+        -0.03856996507585553,
+        11.959245443344116,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        66,
+        null,
+        0
+      ],
+      [
+        0.1645821830291445,
+        11.501726865768433,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        67,
+        null,
+        0
+      ],
+      [
+        -0.0453611442064763,
+        21.33868646621704,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        68,
+        null,
+        0
+      ],
+      [
+        0.25766060280497294,
+        3.137316942214966,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        69,
+        null,
+        0
+      ],
+      [
+        0.10398430107977985,
+        7.3178019523620605,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        70,
+        null,
+        0
+      ],
+      [
+        -0.03955277771841681,
+        10.786622285842896,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        71,
+        null,
+        0
+      ],
+      [
+        0.27287052336265516,
+        3.5233805179595947,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        72,
+        null,
+        0
+      ],
+      [
+        -0.044427152940288206,
+        15.55079984664917,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        73,
+        null,
+        0
+      ],
+      [
+        0.05179970740554729,
+        5.344228029251099,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        74,
+        null,
+        0
+      ],
+      [
+        -0.02547367808512835,
+        11.735527992248535,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        75,
+        null,
+        0
+      ],
+      [
+        0.23194569975824664,
+        5.691894292831421,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        76,
+        null,
+        0
+      ],
+      [
+        -0.02153124034052456,
+        13.824689149856567,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        77,
+        null,
+        0
+      ],
+      [
+        0.01743238760072552,
+        9.140793323516846,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        78,
+        null,
+        0
+      ],
+      [
+        0.1130315304968399,
+        9.128026008605957,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        79,
+        null,
+        0
+      ],
+      [
+        0.009581326004111879,
+        8.866472721099854,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        80,
+        null,
+        0
+      ],
+      [
+        0.01149202717799469,
+        13.042814493179321,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        81,
+        null,
+        0
+      ],
+      [
+        0.16940090108744565,
+        6.056945323944092,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        82,
+        null,
+        0
+      ],
+      [
+        0.12338460632347148,
+        5.168159008026123,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        83,
+        null,
+        0
+      ],
+      [
+        -0.03400904201586785,
+        10.26716423034668,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        84,
+        null,
+        0
+      ],
+      [
+        0.0384465969454264,
+        11.295687437057495,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        85,
+        null,
+        0
+      ],
+      [
+        0.02800651573529589,
+        5.342602014541626,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        86,
+        null,
+        0
+      ],
+      [
+        0.25765680599792473,
+        6.169205904006958,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        87,
+        null,
+        0
+      ],
+      [
+        0.20068528057843615,
+        9.56108283996582,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        88,
+        null,
+        0
+      ],
+      [
+        -0.044246653771910616,
+        18.583730220794678,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        89,
+        null,
+        0
+      ],
+      [
+        -0.03782937245027562,
+        16.058468103408813,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        90,
+        null,
+        0
+      ],
+      [
+        -0.02811415620043345,
+        11.766577959060669,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        91,
+        null,
+        0
+      ],
+      [
+        -0.028662168499510088,
+        13.19465947151184,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        92,
+        null,
+        0
+      ],
+      [
+        -0.03514330964592505,
+        12.535903453826904,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        93,
+        null,
+        0
+      ],
+      [
+        -0.03795155218079538,
+        12.641046285629272,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        94,
+        null,
+        0
+      ],
+      [
+        0.07536320440135458,
+        5.579950332641602,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        95,
+        null,
+        0
+      ],
+      [
+        0.117498952868472,
+        2.4689972400665283,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        96,
+        null,
+        0
+      ],
+      [
+        -0.036821098791350204,
+        8.706275939941406,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        97,
+        null,
+        0
+      ],
+      [
+        -0.03329531308052025,
+        7.887598037719727,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        98,
+        null,
+        0
+      ],
+      [
+        0.07940130264854206,
+        7.271783113479614,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        99,
+        null,
+        0
+      ],
+      [
+        0.0831039664599087,
+        9.056723594665527,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ],
+    [
+      [
+        100,
+        null,
+        0
+      ],
+      [
+        0.0904872515071734,
+        7.623081922531128,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        {}
+      ]
+    ]
+  ],
+  "config_origins": {
+    "1": "Default",
+    "2": "Random Search",
+    "3": "Random Search",
+    "4": "Random Search (sorted)",
+    "5": "Random Search",
+    "6": "Random Search (sorted)",
+    "7": "Random Search",
+    "8": "Random Search (sorted)",
+    "9": "Random Search (sorted)",
+    "10": "Random Search (sorted)",
+    "11": "Random Search",
+    "12": "Random Search (sorted)",
+    "13": "Random Search",
+    "14": "Random Search",
+    "15": "Random Search (sorted)",
+    "16": "Random Search",
+    "17": "Random Search (sorted)",
+    "18": "Random Search (sorted)",
+    "19": "Random Search",
+    "20": "Random Search",
+    "21": "Random Search (sorted)",
+    "22": "Random Search",
+    "23": "Random Search",
+    "24": "Random Search",
+    "25": "Random Search",
+    "26": "Random Search (sorted)",
+    "27": "Random Search (sorted)",
+    "28": "Local Search",
+    "29": "Random Search",
+    "30": "Random Search (sorted)",
+    "31": "Random Search (sorted)",
+    "32": "Random Search (sorted)",
+    "33": "Random Search",
+    "34": "Random Search",
+    "35": "Random Search (sorted)",
+    "36": "Random Search (sorted)",
+    "37": "Random Search (sorted)",
+    "38": "Local Search",
+    "39": "Random Search",
+    "40": "Random Search (sorted)",
+    "41": "Random Search",
+    "42": "Random Search",
+    "43": "Random Search (sorted)",
+    "44": "Random Search",
+    "45": "Random Search",
+    "46": "Local Search",
+    "47": "Local Search",
+    "48": "Random Search",
+    "49": "Random Search",
+    "50": "Local Search",
+    "51": "Local Search",
+    "52": "Random Search",
+    "53": "Random Search (sorted)",
+    "54": "Local Search",
+    "55": "Local Search",
+    "56": "Random Search",
+    "57": "Random Search",
+    "58": "Random Search",
+    "59": "Local Search",
+    "60": "Local Search",
+    "61": "Random Search",
+    "62": "Local Search",
+    "63": "Local Search",
+    "64": "Random Search",
+    "65": "Local Search",
+    "66": "Random Search",
+    "67": "Local Search",
+    "68": "Random Search",
+    "69": "Random Search",
+    "70": "Local Search",
+    "71": "Random Search",
+    "72": "Local Search",
+    "73": "Random Search",
+    "74": "Random Search (sorted)",
+    "75": "Random Search",
+    "76": "Local Search",
+    "77": "Random Search",
+    "78": "Random Search",
+    "79": "Random Search (sorted)",
+    "80": "Random Search",
+    "81": "Random Search",
+    "82": "Random Search",
+    "83": "Local Search",
+    "84": "Random Search",
+    "85": "Random Search (sorted)",
+    "86": "Random Search",
+    "87": "Random Search",
+    "88": "Local Search",
+    "89": "Local Search",
+    "90": "Local Search",
+    "91": "Local Search",
+    "92": "Local Search",
+    "93": "Local Search",
+    "94": "Random Search",
+    "95": "Random Search",
+    "96": "Local Search",
+    "97": "Local Search",
+    "98": "Random Search",
+    "99": "Random Search",
+    "100": "Random Search"
+  },
+  "configs": {
+    "1": {
+      "maxDepth": 5,
+      "maxIter": 20,
+      "minInfoGain": 1e-06,
+      "minInstancesPerNode": 10,
+      "stepSize": 0.1
+    },
+    "2": {
+      "maxDepth": 8,
+      "maxIter": 34,
+      "minInfoGain": 0.018891744293488544,
+      "minInstancesPerNode": 51,
+      "stepSize": 0.3447511104725478
+    },
+    "3": {
+      "maxDepth": 12,
+      "maxIter": 20,
+      "minInfoGain": 0.015419715407791107,
+      "minInstancesPerNode": 93,
+      "stepSize": 0.7422127404598818
+    },
+    "4": {
+      "maxDepth": 7,
+      "maxIter": 26,
+      "minInfoGain": 0.045626596939673976,
+      "minInstancesPerNode": 92,
+      "stepSize": 0.53353075916692
+    },
+    "5": {
+      "maxDepth": 12,
+      "maxIter": 23,
+      "minInfoGain": 0.031265677216708684,
+      "minInstancesPerNode": 53,
+      "stepSize": 0.3487351290192179
+    },
+    "6": {
+      "maxDepth": 9,
+      "maxIter": 13,
+      "minInfoGain": 0.09954592978967576,
+      "minInstancesPerNode": 100,
+      "stepSize": 0.2721041285586
+    },
+    "7": {
+      "maxDepth": 10,
+      "maxIter": 2,
+      "minInfoGain": 0.09911106664425741,
+      "minInstancesPerNode": 81,
+      "stepSize": 0.11544702046774326
+    },
+    "8": {
+      "maxDepth": 10,
+      "maxIter": 18,
+      "minInfoGain": 0.016334836357900385,
+      "minInstancesPerNode": 42,
+      "stepSize": 0.5528928389921413
+    },
+    "9": {
+      "maxDepth": 6,
+      "maxIter": 44,
+      "minInfoGain": 0.018321700765250623,
+      "minInstancesPerNode": 25,
+      "stepSize": 0.11149000645721616
+    },
+    "10": {
+      "maxDepth": 9,
+      "maxIter": 40,
+      "minInfoGain": 0.006822704033354364,
+      "minInstancesPerNode": 18,
+      "stepSize": 0.6337760655206787
+    },
+    "11": {
+      "maxDepth": 9,
+      "maxIter": 17,
+      "minInfoGain": 0.015356973433069503,
+      "minInstancesPerNode": 10,
+      "stepSize": 0.24320855511123124
+    },
+    "12": {
+      "maxDepth": 5,
+      "maxIter": 40,
+      "minInfoGain": 0.020841423002373686,
+      "minInstancesPerNode": 12,
+      "stepSize": 0.26727516932319195
+    },
+    "13": {
+      "maxDepth": 5,
+      "maxIter": 42,
+      "minInfoGain": 0.056966640095138195,
+      "minInstancesPerNode": 87,
+      "stepSize": 0.4165445819142192
+    },
+    "14": {
+      "maxDepth": 8,
+      "maxIter": 16,
+      "minInfoGain": 0.08855441073140062,
+      "minInstancesPerNode": 28,
+      "stepSize": 0.41917440581005805
+    },
+    "15": {
+      "maxDepth": 12,
+      "maxIter": 10,
+      "minInfoGain": 0.006156535235307963,
+      "minInstancesPerNode": 69,
+      "stepSize": 0.13795909382997562
+    },
+    "16": {
+      "maxDepth": 7,
+      "maxIter": 38,
+      "minInfoGain": 0.07701967393123017,
+      "minInstancesPerNode": 60,
+      "stepSize": 0.01141596619262307
+    },
+    "17": {
+      "maxDepth": 10,
+      "maxIter": 42,
+      "minInfoGain": 0.05237947471925521,
+      "minInstancesPerNode": 7,
+      "stepSize": 0.3386992500557343
+    },
+    "18": {
+      "maxDepth": 7,
+      "maxIter": 46,
+      "minInfoGain": 0.05530149247740426,
+      "minInstancesPerNode": 8,
+      "stepSize": 0.05759271577022532
+    },
+    "19": {
+      "maxDepth": 6,
+      "maxIter": 43,
+      "minInfoGain": 0.022368632397215447,
+      "minInstancesPerNode": 18,
+      "stepSize": 0.3772203476085123
+    },
+    "20": {
+      "maxDepth": 12,
+      "maxIter": 17,
+      "minInfoGain": 0.07974040426147021,
+      "minInstancesPerNode": 69,
+      "stepSize": 0.8950145482442678
+    },
+    "21": {
+      "maxDepth": 3,
+      "maxIter": 44,
+      "minInfoGain": 0.05567157630072043,
+      "minInstancesPerNode": 9,
+      "stepSize": 0.2901166375690381
+    },
+    "22": {
+      "maxDepth": 10,
+      "maxIter": 13,
+      "minInfoGain": 0.08855280736590536,
+      "minInstancesPerNode": 91,
+      "stepSize": 0.06930184444510325
+    },
+    "23": {
+      "maxDepth": 7,
+      "maxIter": 6,
+      "minInfoGain": 0.02734050546046495,
+      "minInstancesPerNode": 24,
+      "stepSize": 0.28330359397899335
+    },
+    "24": {
+      "maxDepth": 11,
+      "maxIter": 30,
+      "minInfoGain": 0.06367669363630478,
+      "minInstancesPerNode": 86,
+      "stepSize": 0.38404134002134993
+    },
+    "25": {
+      "maxDepth": 3,
+      "maxIter": 49,
+      "minInfoGain": 0.08899841529309656,
+      "minInstancesPerNode": 13,
+      "stepSize": 0.6441426646916936
+    },
+    "26": {
+      "maxDepth": 10,
+      "maxIter": 8,
+      "minInfoGain": 0.004680670458296753,
+      "minInstancesPerNode": 26,
+      "stepSize": 0.1493329915234563
+    },
+    "27": {
+      "maxDepth": 3,
+      "maxIter": 3,
+      "minInfoGain": 0.014900101574811317,
+      "minInstancesPerNode": 32,
+      "stepSize": 0.14489962907057188
+    },
+    "28": {
+      "maxDepth": 5,
+      "maxIter": 47,
+      "minInfoGain": 0.05632575882711852,
+      "minInstancesPerNode": 1,
+      "stepSize": 0.130424553430153
+    },
+    "29": {
+      "maxDepth": 6,
+      "maxIter": 39,
+      "minInfoGain": 0.0953053256558601,
+      "minInstancesPerNode": 1,
+      "stepSize": 0.9238835705051082
+    },
+    "30": {
+      "maxDepth": 12,
+      "maxIter": 21,
+      "minInfoGain": 0.002595698429060218,
+      "minInstancesPerNode": 14,
+      "stepSize": 0.7280224487343779
+    },
+    "31": {
+      "maxDepth": 9,
+      "maxIter": 27,
+      "minInfoGain": 0.008541431720592633,
+      "minInstancesPerNode": 10,
+      "stepSize": 0.7915021637099499
+    },
+    "32": {
+      "maxDepth": 11,
+      "maxIter": 4,
+      "minInfoGain": 0.0024890227374672995,
+      "minInstancesPerNode": 8,
+      "stepSize": 0.6672692914628767
+    },
+    "33": {
+      "maxDepth": 10,
+      "maxIter": 12,
+      "minInfoGain": 0.041259426749635765,
+      "minInstancesPerNode": 3,
+      "stepSize": 0.7961566898061356
+    },
+    "34": {
+      "maxDepth": 9,
+      "maxIter": 11,
+      "minInfoGain": 0.050844654642289544,
+      "minInstancesPerNode": 8,
+      "stepSize": 0.4126091871951423
+    },
+    "35": {
+      "maxDepth": 4,
+      "maxIter": 31,
+      "minInfoGain": 0.000668548642614075,
+      "minInstancesPerNode": 30,
+      "stepSize": 0.08426648197270555
+    },
+    "36": {
+      "maxDepth": 4,
+      "maxIter": 31,
+      "minInfoGain": 0.001615096990301223,
+      "minInstancesPerNode": 4,
+      "stepSize": 0.6773800598356287
+    },
+    "37": {
+      "maxDepth": 4,
+      "maxIter": 19,
+      "minInfoGain": 0.0002749092114351229,
+      "minInstancesPerNode": 11,
+      "stepSize": 0.376280783695417
+    },
+    "38": {
+      "maxDepth": 7,
+      "maxIter": 22,
+      "minInfoGain": 0.013278723478750951,
+      "minInstancesPerNode": 1,
+      "stepSize": 0.8664102926994983
+    },
+    "39": {
+      "maxDepth": 11,
+      "maxIter": 37,
+      "minInfoGain": 0.03809370387688454,
+      "minInstancesPerNode": 3,
+      "stepSize": 0.5288260133362429
+    },
+    "40": {
+      "maxDepth": 4,
+      "maxIter": 23,
+      "minInfoGain": 0.0013824823620810808,
+      "minInstancesPerNode": 7,
+      "stepSize": 0.8263972307763005
+    },
+    "41": {
+      "maxDepth": 8,
+      "maxIter": 22,
+      "minInfoGain": 0.031379387348468374,
+      "minInstancesPerNode": 16,
+      "stepSize": 0.8462388773398783
+    },
+    "42": {
+      "maxDepth": 4,
+      "maxIter": 23,
+      "minInfoGain": 0.0031345032576517926,
+      "minInstancesPerNode": 69,
+      "stepSize": 0.7813171228445652
+    },
+    "43": {
+      "maxDepth": 10,
+      "maxIter": 27,
+      "minInfoGain": 0.001246066645292829,
+      "minInstancesPerNode": 18,
+      "stepSize": 0.2575983929794039
+    },
+    "44": {
+      "maxDepth": 4,
+      "maxIter": 14,
+      "minInfoGain": 0.07026667453195891,
+      "minInstancesPerNode": 26,
+      "stepSize": 0.09171644816904219
+    },
+    "45": {
+      "maxDepth": 12,
+      "maxIter": 22,
+      "minInfoGain": 0.06538775318603113,
+      "minInstancesPerNode": 46,
+      "stepSize": 0.10900068221054227
+    },
+    "46": {
+      "maxDepth": 10,
+      "maxIter": 20,
+      "minInfoGain": 0.00010096615495054325,
+      "minInstancesPerNode": 25,
+      "stepSize": 0.3354898577805121
+    },
+    "47": {
+      "maxDepth": 10,
+      "maxIter": 20,
+      "minInfoGain": 0.0014390940655802447,
+      "minInstancesPerNode": 25,
+      "stepSize": 0.4170460816536545
+    },
+    "48": {
+      "maxDepth": 6,
+      "maxIter": 19,
+      "minInfoGain": 0.04923018304207541,
+      "minInstancesPerNode": 75,
+      "stepSize": 0.6746793340650994
+    },
+    "49": {
+      "maxDepth": 12,
+      "maxIter": 48,
+      "minInfoGain": 0.0644693082476517,
+      "minInstancesPerNode": 72,
+      "stepSize": 0.32111502481483095
+    },
+    "50": {
+      "maxDepth": 11,
+      "maxIter": 18,
+      "minInfoGain": 0.0024464635559088305,
+      "minInstancesPerNode": 27,
+      "stepSize": 0.462466871674459
+    },
+    "51": {
+      "maxDepth": 10,
+      "maxIter": 18,
+      "minInfoGain": 0.002343921865451113,
+      "minInstancesPerNode": 29,
+      "stepSize": 0.3088627948620578
+    },
+    "52": {
+      "maxDepth": 9,
+      "maxIter": 24,
+      "minInfoGain": 0.056315694636671174,
+      "minInstancesPerNode": 36,
+      "stepSize": 0.23931505636448305
+    },
+    "53": {
+      "maxDepth": 10,
+      "maxIter": 18,
+      "minInfoGain": 5.293958406900371e-05,
+      "minInstancesPerNode": 29,
+      "stepSize": 0.6325484930822347
+    },
+    "54": {
+      "maxDepth": 10,
+      "maxIter": 25,
+      "minInfoGain": 0.001139904316358533,
+      "minInstancesPerNode": 28,
+      "stepSize": 0.5417726485601424
+    },
+    "55": {
+      "maxDepth": 11,
+      "maxIter": 6,
+      "minInfoGain": 0.0005757707496247367,
+      "minInstancesPerNode": 28,
+      "stepSize": 0.2636136258297008
+    },
+    "56": {
+      "maxDepth": 3,
+      "maxIter": 45,
+      "minInfoGain": 0.07136067714123003,
+      "minInstancesPerNode": 32,
+      "stepSize": 0.335689103538006
+    },
+    "57": {
+      "maxDepth": 10,
+      "maxIter": 32,
+      "minInfoGain": 0.06753432445184535,
+      "minInstancesPerNode": 69,
+      "stepSize": 0.4253922817006709
+    },
+    "58": {
+      "maxDepth": 11,
+      "maxIter": 14,
+      "minInfoGain": 0.04281474765894308,
+      "minInstancesPerNode": 2,
+      "stepSize": 0.8132349225117279
+    },
+    "59": {
+      "maxDepth": 10,
+      "maxIter": 22,
+      "minInfoGain": 0.0016373197842781328,
+      "minInstancesPerNode": 31,
+      "stepSize": 0.41971555196903615
+    },
+    "60": {
+      "maxDepth": 10,
+      "maxIter": 18,
+      "minInfoGain": 0.0014390940655802447,
+      "minInstancesPerNode": 31,
+      "stepSize": 0.551990726912736
+    },
+    "61": {
+      "maxDepth": 5,
+      "maxIter": 19,
+      "minInfoGain": 0.07925594032342335,
+      "minInstancesPerNode": 40,
+      "stepSize": 0.3818282383180952
+    },
+    "62": {
+      "maxDepth": 11,
+      "maxIter": 19,
+      "minInfoGain": 0.003028742326869744,
+      "minInstancesPerNode": 30,
+      "stepSize": 0.4181319529703942
+    },
+    "63": {
+      "maxDepth": 12,
+      "maxIter": 19,
+      "minInfoGain": 0.0031300423606287404,
+      "minInstancesPerNode": 30,
+      "stepSize": 0.20096823268393119
+    },
+    "64": {
+      "maxDepth": 3,
+      "maxIter": 19,
+      "minInfoGain": 0.04818500638436176,
+      "minInstancesPerNode": 1,
+      "stepSize": 0.8298543267079241
+    },
+    "65": {
+      "maxDepth": 10,
+      "maxIter": 24,
+      "minInfoGain": 0.0013598687683151372,
+      "minInstancesPerNode": 23,
+      "stepSize": 0.9813526689149047
+    },
+    "66": {
+      "maxDepth": 10,
+      "maxIter": 41,
+      "minInfoGain": 0.0864685786973066,
+      "minInstancesPerNode": 100,
+      "stepSize": 0.48842021284595444
+    },
+    "67": {
+      "maxDepth": 10,
+      "maxIter": 44,
+      "minInfoGain": 0.0003032620635999827,
+      "minInstancesPerNode": 11,
+      "stepSize": 0.6179950621031294
+    },
+    "68": {
+      "maxDepth": 6,
+      "maxIter": 7,
+      "minInfoGain": 0.09799309950122903,
+      "minInstancesPerNode": 85,
+      "stepSize": 0.4108285688945374
+    },
+    "69": {
+      "maxDepth": 9,
+      "maxIter": 15,
+      "minInfoGain": 0.05022164079550652,
+      "minInstancesPerNode": 78,
+      "stepSize": 0.21758278447796933
+    },
+    "70": {
+      "maxDepth": 10,
+      "maxIter": 14,
+      "minInfoGain": 0.00010162736935313848,
+      "minInstancesPerNode": 34,
+      "stepSize": 0.6124335684403186
+    },
+    "71": {
+      "maxDepth": 6,
+      "maxIter": 9,
+      "minInfoGain": 0.09628090679860808,
+      "minInstancesPerNode": 13,
+      "stepSize": 0.8235602740607993
+    },
+    "72": {
+      "maxDepth": 10,
+      "maxIter": 23,
+      "minInfoGain": 7.596387847654596e-06,
+      "minInstancesPerNode": 31,
+      "stepSize": 0.33094069885019045
+    },
+    "73": {
+      "maxDepth": 6,
+      "maxIter": 14,
+      "minInfoGain": 0.04151405821846956,
+      "minInstancesPerNode": 34,
+      "stepSize": 0.5244083236442576
+    },
+    "74": {
+      "maxDepth": 10,
+      "maxIter": 25,
+      "minInfoGain": 0.002331540227200677,
+      "minInstancesPerNode": 79,
+      "stepSize": 0.3674638251927353
+    },
+    "75": {
+      "maxDepth": 12,
+      "maxIter": 17,
+      "minInfoGain": 0.07910708180153125,
+      "minInstancesPerNode": 56,
+      "stepSize": 0.3238732434499859
+    },
+    "76": {
+      "maxDepth": 10,
+      "maxIter": 25,
+      "minInfoGain": 6.182783749212309e-05,
+      "minInstancesPerNode": 56,
+      "stepSize": 0.4619229847569067
+    },
+    "77": {
+      "maxDepth": 5,
+      "maxIter": 22,
+      "minInfoGain": 0.004282586964625704,
+      "minInstancesPerNode": 51,
+      "stepSize": 0.9476901031762632
+    },
+    "78": {
+      "maxDepth": 4,
+      "maxIter": 30,
+      "minInfoGain": 0.05631123903412431,
+      "minInstancesPerNode": 88,
+      "stepSize": 0.06827597805160596
+    },
+    "79": {
+      "maxDepth": 11,
+      "maxIter": 20,
+      "minInfoGain": 0.001274999655398395,
+      "minInstancesPerNode": 91,
+      "stepSize": 0.36580144617123495
+    },
+    "80": {
+      "maxDepth": 10,
+      "maxIter": 44,
+      "minInfoGain": 0.02377786805527587,
+      "minInstancesPerNode": 21,
+      "stepSize": 0.7581414578187722
+    },
+    "81": {
+      "maxDepth": 10,
+      "maxIter": 19,
+      "minInfoGain": 0.07264815028231199,
+      "minInstancesPerNode": 27,
+      "stepSize": 0.9226635016604647
+    },
+    "82": {
+      "maxDepth": 9,
+      "maxIter": 15,
+      "minInfoGain": 0.06865093850841587,
+      "minInstancesPerNode": 55,
+      "stepSize": 0.8089124919298448
+    },
+    "83": {
+      "maxDepth": 10,
+      "maxIter": 17,
+      "minInfoGain": 0.0031300423606287404,
+      "minInstancesPerNode": 28,
+      "stepSize": 0.2921173670168313
+    },
+    "84": {
+      "maxDepth": 8,
+      "maxIter": 35,
+      "minInfoGain": 0.010195387488675706,
+      "minInstancesPerNode": 52,
+      "stepSize": 0.5244552920624267
+    },
+    "85": {
+      "maxDepth": 11,
+      "maxIter": 11,
+      "minInfoGain": 0.002185538960062143,
+      "minInstancesPerNode": 95,
+      "stepSize": 0.8327524193817194
+    },
+    "86": {
+      "maxDepth": 6,
+      "maxIter": 20,
+      "minInfoGain": 0.0959917248461634,
+      "minInstancesPerNode": 36,
+      "stepSize": 0.08753579767784779
+    },
+    "87": {
+      "maxDepth": 9,
+      "maxIter": 33,
+      "minInfoGain": 0.08800402531100404,
+      "minInstancesPerNode": 67,
+      "stepSize": 0.2326461797274465
+    },
+    "88": {
+      "maxDepth": 10,
+      "maxIter": 22,
+      "minInfoGain": 0.0008924843509166722,
+      "minInstancesPerNode": 32,
+      "stepSize": 0.2750745399284784
+    },
+    "89": {
+      "maxDepth": 10,
+      "maxIter": 20,
+      "minInfoGain": 0.0008871368851828329,
+      "minInstancesPerNode": 32,
+      "stepSize": 0.29634537531957633
+    },
+    "90": {
+      "maxDepth": 11,
+      "maxIter": 25,
+      "minInfoGain": 0.0038773813619192685,
+      "minInstancesPerNode": 28,
+      "stepSize": 0.32245840118693436
+    },
+    "91": {
+      "maxDepth": 11,
+      "maxIter": 30,
+      "minInfoGain": 0.003967956078156609,
+      "minInstancesPerNode": 28,
+      "stepSize": 0.30187715484600086
+    },
+    "92": {
+      "maxDepth": 11,
+      "maxIter": 20,
+      "minInfoGain": 0.0011829914850333327,
+      "minInstancesPerNode": 35,
+      "stepSize": 0.313778174226618
+    },
+    "93": {
+      "maxDepth": 11,
+      "maxIter": 20,
+      "minInfoGain": 6.303788670705701e-06,
+      "minInstancesPerNode": 35,
+      "stepSize": 0.34403095399224715
+    },
+    "94": {
+      "maxDepth": 3,
+      "maxIter": 16,
+      "minInfoGain": 0.02260984051517541,
+      "minInstancesPerNode": 68,
+      "stepSize": 0.6138949312829842
+    },
+    "95": {
+      "maxDepth": 8,
+      "maxIter": 3,
+      "minInfoGain": 0.05457388286520659,
+      "minInstancesPerNode": 22,
+      "stepSize": 0.42295139910917984
+    },
+    "96": {
+      "maxDepth": 10,
+      "maxIter": 19,
+      "minInfoGain": 0.001876418661785569,
+      "minInstancesPerNode": 15,
+      "stepSize": 0.8192819487340941
+    },
+    "97": {
+      "maxDepth": 10,
+      "maxIter": 14,
+      "minInfoGain": 0.002294111066581297,
+      "minInstancesPerNode": 14,
+      "stepSize": 0.8386243614711658
+    },
+    "98": {
+      "maxDepth": 9,
+      "maxIter": 23,
+      "minInfoGain": 0.03919022485944379,
+      "minInstancesPerNode": 94,
+      "stepSize": 0.3082931287984123
+    },
+    "99": {
+      "maxDepth": 7,
+      "maxIter": 31,
+      "minInfoGain": 0.05899830105244769,
+      "minInstancesPerNode": 96,
+      "stepSize": 0.7420128874933575
+    },
+    "100": {
+      "maxDepth": 3,
+      "maxIter": 25,
+      "minInfoGain": 0.04478930739803538,
+      "minInstancesPerNode": 66,
+      "stepSize": 0.42292223831256603
+    }
+  }
+}

@@ -1,0 +1,5 @@
+maxDepth integer [3, 12] [5]
+maxIter integer [1, 50] [20]
+minInfoGain real [1e-06, 0.1] [1e-06]
+minInstancesPerNode integer [1, 100] [10]
+stepSize real [0.001, 1.0] [0.1]

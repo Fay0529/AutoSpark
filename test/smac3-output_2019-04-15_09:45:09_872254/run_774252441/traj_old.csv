@@ -1,0 +1,6 @@
+"CPU Time Used","Estimated Training Performance","Wallclock Time","Incumbent ID","Automatic Configurator (CPU) Time","Configuration..."
+0.000000, 2147483648.000000, 0.000431, 1, 0.000431, maxDepth='5', maxIter='20', minInfoGain='1e-06', minInstancesPerNode='10', stepSize='0.1'
+9.115330, -0.061246, 9.146557, 1, 0.031227, maxDepth='5', maxIter='20', minInfoGain='1e-06', minInstancesPerNode='10', stepSize='0.1'
+88.543638, -0.092439, 99.640816, 2, 11.097178, maxDepth='9', maxIter='45', minInfoGain='0.048754565135161645', minInstancesPerNode='1', stepSize='0.05204024857361069'
+282.394735, -0.093112, 343.691974, 3, 61.297238, maxDepth='11', maxIter='45', minInfoGain='0.05791439350754004', minInstancesPerNode='1', stepSize='0.11056341342252082'
+315.405310, -0.103672, 381.065298, 4, 65.659989, maxDepth='10', maxIter='44', minInfoGain='0.07081472369232816', minInstancesPerNode='1', stepSize='0.2134933810732241'

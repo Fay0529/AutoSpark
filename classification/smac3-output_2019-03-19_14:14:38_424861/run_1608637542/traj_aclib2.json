@@ -1,0 +1,2 @@
+{"cpu_time": 0, "total_cpu_time": null, "wallclock_time": 0.00025534629821777344, "evaluations": 0, "cost": 2147483648, "incumbent": ["elasticNetParam='0.1'", "maxIter='50'", "regParam='0.0001'", "tol='1e-06'"], "origin": "Default"}
+{"cpu_time": 23.52089238166809, "total_cpu_time": null, "wallclock_time": 23.54871702194214, "evaluations": 1, "cost": 0.054143604432546955, "incumbent": ["elasticNetParam='0.1'", "maxIter='50'", "regParam='0.0001'", "tol='1e-06'"], "origin": "Default"}
